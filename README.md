@@ -1,3 +1,3 @@
-# Semiconductor Wafer Yield Anomaly Detection & SHAP Root-Cause Analysis
+# Supply Chain Anomaly Alerting & SOP-Grounded Resolution Agent
 
-An end-to-end DataOps and Machine Learning pipeline for semiconductor manufacturing process monitoring.
+Rule-gated anomaly ingestion and deterministic SOP citation verifier (`pytest` verified).
